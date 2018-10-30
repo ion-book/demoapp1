@@ -1,4 +1,4 @@
-# Demoapp1
+# Demoapp1 Angular 7
 
 Este App muestra el codigo uso de Componentes.
 
